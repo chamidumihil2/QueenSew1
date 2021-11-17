@@ -1,7 +1,6 @@
-/* Codded by @Ravindu Manoj
+/* Codded by @𝐂𝐇𝐀𝐌𝐈𝐃𝐔
 
-Telegram: t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+Telegram: t.me/𝐂𝐇𝐀𝐌𝐈𝐃𝐔
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
