@@ -1,8 +1,8 @@
 {
-  "name": "rs-sew-queen",
+  "name": "rs-𝓠ᴜᴇᴇɴ-ᴀꜱʜɪ",
   "version": "2.0.0",
-  "description": "Sew Queen.",
-  "main": "./SewQueen/sew.js",
+  "description": "𝓠ᴜᴇᴇɴ ᴀꜱʜɪ.",
+  "main": "./𝓠ᴜᴇᴇɴ ᴀꜱʜɪ/sew.js",
   "scripts": {
     "start": "supervisor -s sew.js"
   },
